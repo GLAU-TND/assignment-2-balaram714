@@ -6,6 +6,10 @@
  */
 package problem1.main;
 // executable class
-
+import problem1.*;
 public class MyMain {
+public static void main(String args[])
+{
+   
+}
 }
