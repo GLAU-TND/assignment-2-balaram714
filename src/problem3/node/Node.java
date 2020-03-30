@@ -6,5 +6,10 @@
  */
 package problem3.node;
 
-public class Node {
+public class Student {
+
+String name;
+int rollno;
+//constructor
+//getter setter method
 }
