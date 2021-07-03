@@ -6,5 +6,10 @@
  */
 package problem1.node;
 
-public class TreeNode {
+public class Node {
+  int data;
+   node leftside;
+   node leftside;
+   // constructors
+   // getter and setter methods
 }
